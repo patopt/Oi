@@ -1,0 +1,5 @@
+{
+  "name": "Copy of XlineOS Aurora",
+  "description": "A web-based dual-interface operating system (Desktop/Mobile) with a functional kernel simulation, app compilation, and persistent state.",
+  "requestFramePermissions": []
+}
